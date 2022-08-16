@@ -1,5 +1,5 @@
 
-# Project 1
+# Project 3
 
 
 Home page 
@@ -19,7 +19,7 @@ HTML, CSS...
 
 ## Screenshots
 
-![App Screenshot](./project-1.png)
+![App Screenshot](https://github.com/shrawankansi/project-3/blob/main/screenshot.png)
 
 
 ## 🔗 contact me
